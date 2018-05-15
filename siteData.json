@@ -1,0 +1,8 @@
+{
+  "pages": [
+    {
+      "title": "Hello World",
+      "src": "index.md"
+    }
+  ]
+}
