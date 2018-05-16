@@ -1,6 +1,6 @@
 {
   "baseUrl": "",
-  "titlePrefix": "",
+  "titlePrefix": "/test-markbind-website",
   "favIconPath": "favicon.ico",
   "ignore": [
     "_markbind/logs/*",
