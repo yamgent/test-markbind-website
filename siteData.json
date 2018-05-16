@@ -1,7 +1,7 @@
 {
   "pages": [
     {
-      "title": "/test-markbind-website - Hello World",
+      "title": "Hello World",
       "src": "index.md"
     }
   ]
