@@ -1,6 +1,7 @@
 {
   "baseUrl": "",
   "titlePrefix": "",
+  "favIconPath": "favicon.ico",
   "ignore": [
     "_markbind/logs/*",
     "_site/*",
